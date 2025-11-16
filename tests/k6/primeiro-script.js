@@ -56,7 +56,7 @@ export default function () {
     group('Simulando pensamento do usuário', function () {
         sleep(1); // User think time
     })
-}
+} //commit
 
 export function handleSummary(data) {
     return {
